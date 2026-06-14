@@ -22,6 +22,7 @@ This project provides hands-on experience with:
 
 # 🏗️ Architecture
 
+![alt text](screenshots/architecture.png)
 
 ---
 
