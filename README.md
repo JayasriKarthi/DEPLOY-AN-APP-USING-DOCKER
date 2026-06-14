@@ -297,6 +297,8 @@ Single Instance
 Version One
 ```
 
+![alt text](screenshots/environment_launch.png)
+
 ---
 
 # 🔐 IAM Configuration
